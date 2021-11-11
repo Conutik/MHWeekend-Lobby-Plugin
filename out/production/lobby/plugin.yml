@@ -1,0 +1,9 @@
+name: Lobby
+description:
+version: 1.0
+main: me.conutik.lobby.Main
+api-version: 1.17
+commands:
+  lobbyselector:
+    description: Select Lobby
+
